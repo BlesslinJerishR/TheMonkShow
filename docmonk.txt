@@ -9,10 +9,35 @@
 
 Modules 
 
-# Module 1 - Layout - HTML
-# Module 2 - Slide Show
-# Module 3 - Slide Show ( Should Work ) - JS
-# Module 4 - Beautification - CSS
-# Module 5 - Deploy - Netlify , Github , Source Code , Zip
+# [x]Module 1 - Layout - HTML
+# []Module 2 - Slide Show
+# []Module 3 - Slide Show ( Should Work ) - JS
+# []Module 4 - Beautification - CSS
+# []Module 5 - Deploy - Netlify , Github , Source Code , Zip
 
 # Fire
+
+# Logo > Title Bar 
+
+    - [x] Came with a Bug i can't find the resource for the Logo with Hexagon with a creative 90 degree on it . Luckily
+    I had a Canva Premium , I am using Linux so it takes time to install Photoshop , so using Canva for now . Exporting the Logo Right now .      
+
+    - [x] Logo Exported I am calling my own skeleton module for Ticon from my own Pyrames Repo which can be founded in the
+    url - https://github.com/Mastermindx33/Pyrames/tree/main/PyHtml
+
+    - [x] Echo <h1>Hello World</h1>
+
+    - [x] Okay ! Logo messed up .  size should be resized , changing it .
+
+    - [x] Deploy
+
+# Layout > HTML
+
+    - [] Wireframing - Skeleton of The Media Monk
+    - [] 
+    - [] 
+    - [] 
+    - [] 
+    - [] 
+    - [] 
+    
