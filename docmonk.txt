@@ -1,29 +1,42 @@
+Bonjour , MediaMonks .
+
 # Date : 19th Oct of 2021
 # Time : 12.14 PM
-# Developer : Blesslin Jerish R
-# Modus Operandi : Media Monk Interview Assessment 1
-# To Do : Slide Show 
-# TechStack : HTML , CSS , Vanilla JS ( plain )
+# Developer : Blesslin Jerish R .
+# Modus Operandi : Media Monk Interview Assessment 1 .
+# To Do : Slide Show .
+# TechStack : HTML , CSS , Vanilla JS ( plain ) .
 # Tracker Board : Trello - url : https://trello.com/b/Fn5nq4ZZ/themonkshow
-# Modules - 5 Modules
+# Modules - 5 Modules with 2 Sub Modules .
 
-Modules 
+!!! Proceed with Caution = "If You found any Humor don't Ban me"; !!!
+
+!!! Trust me My comments will be more than professional at our Products/Service/SourceCodes/Office/Workplace . TRUST ME .
+        - by Me .
+
+!!! Here is a Quote for Anti-Christs : “One day your life will flash before your eyes. Make sure it's worth watching”
+                                                                        ― Gerard Way 
+
+!!! Have a cookie .                                                                               
+
+<---- Modules  ---->
 
 # [x]Module 1 - Layout - HTML
-# []Module 2 - Slide Show
-# []Module 3 - Slide Show ( Should Work ) - JS
-# []Module 4 - Beautification - CSS
-# []Module 5 - Deploy - Netlify , Github , Source Code , Zip
+# [x]Module 2 - Styles ( Basic ) - CSS
+# []Module 3 - Slide Show
+# []Module 4 - Slide Show ( Should Work ) - JS
+# []Module 5 - Beautification ( Advance ) - CSS
+# []Module 6 - Deploy - Netlify , Github , Source Code , Zip
 
 # Fire
 
-# Logo > Title Bar 
+----# Logo > Title Bar 
 
     - [x] Came with a Bug i can't find the resource for the Logo with Hexagon with a creative 90 degree on it . Luckily
-    I had a Canva Premium , I am using Linux so it takes time to install Photoshop , so using Canva for now . Exporting the Logo Right now .      
+          I had a Canva Premium , I am using Linux so it takes time to install Photoshop , so using Canva for now . Exporting the Logo Right now .      
 
     - [x] Logo Exported I am calling my own skeleton module for Ticon from my own Pyrames Repo which can be founded in the
-    url - https://github.com/Mastermindx33/Pyrames/tree/main/PyHtml
+          url - https://github.com/Mastermindx33/Pyrames/tree/main/PyHtml
 
     - [x] Echo <h1>Hello World</h1>
 
@@ -31,13 +44,22 @@ Modules
 
     - [x] Deploy
 
-# Layout > HTML
+----# Layout > HTML
 
-    - [] Wireframing - Skeleton of The Media Monk
-    - [] 
-    - [] 
-    - [] 
-    - [] 
-    - [] 
-    - [] 
+    - [x] Wireframing - Skeleton of The Media Monk
+    - [x] Layout of HTML 
+    - [x] Controller Module 
+    - [x] Classes
+    - [x] Alternative texts
+    - [x] Right & Left Buttons
+    - [x] Deploy
     
+----# Style > CSS
+
+    - [] Linking
+    - [] html, body basics
+    - [] Magic Scroll Bar - To hide the scroll bar if any calling my own repo magicScroll.css from Pyrames which can be founded in the
+         url - https://github.com/Mastermindx33/Pyrames/tree/main/PyCss
+    - [] Background Color
+    - [] Design Modules
+    - [] Basic Starter Styles

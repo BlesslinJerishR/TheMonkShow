@@ -1,0 +1,39 @@
+/* Overflow + MySignature Black */
+html,body{
+    /* Overflow */
+    overflow: hidden !important;
+    /* Background Color */
+    background: #1d1e21 !important;
+    /* Text Color */
+    color: #9EEF01 !important;
+}
+
+/* Hide Scroll bar through Magic */
+
+html {
+    overflow: scroll;
+    overflow-x: hidden;
+}
+::-webkit-scrollbar {
+    width: 0;
+    background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #FF0000;
+}
+
+/* Body */
+
+body{
+    display: flex;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+.container{
+    width: 300;
+    height: 250;
+    border: 2px solid #9EEF01;
+
+}
