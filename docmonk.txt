@@ -13,10 +13,10 @@ Bonjour , MediaMonks .
 
 # [x]Module 1 - Layout - HTML
 # [x]Module 2 - Styles ( Basic ) - CSS
-# []Module 3 - Slide Show
-# []Module 4 - Slide Show ( Should Work ) - JS
-# []Module 5 - Beautification ( Advance ) - CSS
-# []Module 6 - Deploy - Netlify , Github , Source Code , Zip
+# [x]Module 3 - Slide Show
+# [x]Module 4 - Slide Show ( Should Work ) - JS
+# [x]Module 5 - Beautification ( Advance ) - CSS
+# [x]Module 6 - Deploy - Netlify , Github , Source Code , Zip
 
 # Fire
 
@@ -46,10 +46,27 @@ Bonjour , MediaMonks .
     
 ----# Style > CSS
 
-    - [] Linking
-    - [] html, body basics
-    - [] Magic Scroll Bar - To hide the scroll bar if any calling my own repo magicScroll.css from Pyrames which can be founded in the
-         url - https://github.com/Mastermindx33/Pyrames/tree/main/PyCss
-    - [] Background Color
-    - [] Design Modules
-    - [] Basic Starter Styles
+    - [x] Linking
+    - [x] html, body basics
+    - [x] Magic Scroll Bar - To hide the scroll bar if any calling my own repo magicScroll.css from Pyrames which can be founded in the
+          url - https://github.com/Mastermindx33/Pyrames/tree/main/PyCss
+    - [x] Background Color
+    - [x] Design Modules
+    - [x] Basic Starter Styles
+
+----# Working Logic > JS
+    - [x] Slide
+    - [x] querySelector  
+    - [x] Arrow Modules
+    - [x] Time Delay
+    - [x] Add Event listener
+    - [x] Auto Looper
+
+----# Extras
+    - [x] magicScroll.css [ Pyrames ]
+    - [x] Overflows Hidden
+    - [X] Footer Developer Sign
+
+
+[x] Regards & Thanks ,
+# Blesslin Jerish R 
