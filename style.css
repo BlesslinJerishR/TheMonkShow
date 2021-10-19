@@ -1,3 +1,6 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
 /* Overflow + MySignature Black */
 html,body{
     /* Overflow */
@@ -5,7 +8,7 @@ html,body{
     /* Background Color */
     background: #1d1e21 !important;
     /* Text Color */
-    color: #9EEF01 !important;
+    color: #FF0000 !important;
     /* Height */
     height: 100%;
 }
@@ -39,7 +42,7 @@ body{
     top: 20px !important;
     width: 300px;
     height: 250px;
-    border: 2px solid #9EEF01;
+    border: 3px solid #FF0000;
     border-radius:11px;
     box-shadow: 0 3px 6px rgba(0, 0 , 0, 0.2);        
 }
@@ -68,7 +71,7 @@ body{
             height: 40px;
             width: 40px;
             border-radius: 7px;
-            background-color: #9EEF01;
+            background-color: #FF0000;
             opacity: 0.5s;
             transition: ease 0.3s;
             cursor: pointer
@@ -101,4 +104,11 @@ body{
 .left_arrow{
     position: absolute;
     left: -10px !important;
+}
+
+h1{
+    position: absolute;
+    top: 28px;
+    font-size: 40px;
+    font-family: 'Poppins', sans-serif;
 }
