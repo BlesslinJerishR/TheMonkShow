@@ -7,17 +7,7 @@ Bonjour , MediaMonks .
 # To Do : Slide Show .
 # TechStack : HTML , CSS , Vanilla JS ( plain ) .
 # Tracker Board : Trello - url : https://trello.com/b/Fn5nq4ZZ/themonkshow
-# Modules - 5 Modules with 2 Sub Modules .
-
-!!! Proceed with Caution = "If You found any Humor don't Ban me"; !!!
-
-!!! Trust me My comments will be more than professional at our Products/Service/SourceCodes/Office/Workplace . TRUST ME .
-        - by Me .
-
-!!! Here is a Quote for Anti-Christs : “One day your life will flash before your eyes. Make sure it's worth watching”
-                                                                        ― Gerard Way 
-
-!!! Have a cookie .                                                                               
+# Modules - 5 Modules with 2 Sub Modules .                                                                              
 
 <---- Modules  ---->
 

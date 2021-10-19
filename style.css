@@ -6,6 +6,8 @@ html,body{
     background: #1d1e21 !important;
     /* Text Color */
     color: #9EEF01 !important;
+    /* Height */
+    height: 100%;
 }
 
 /* Hide Scroll bar through Magic */
@@ -26,14 +28,77 @@ html {
 /* Body */
 
 body{
-    display: flex;
+    display: flex !important;
     justify-content: center !important;
     align-items: center !important;
 }
 
 .container{
-    width: 300;
-    height: 250;
+    position: relative;
+    overflow: hidden;
+    top: 20px !important;
+    width: 300px;
+    height: 250px;
     border: 2px solid #9EEF01;
+    border-radius:11px;
+    box-shadow: 0 3px 6px rgba(0, 0 , 0, 0.2);        
+}
 
+.arrows:hover{
+    opacity: 1;
+}
+
+.arrows{
+        opacity: 0;
+        display: flex;
+        position: absolute;
+        top: 50%;
+        left: 0;
+        z-index: 99999;
+        transition: all ease 0.5s;
+        justify-content: space-between;
+        color: #000;
+}
+
+.arrow{
+            margin: 0 5px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 40px;
+            width: 40px;
+            border-radius: 7px;
+            background-color: #9EEF01;
+            opacity: 0.5s;
+            transition: ease 0.3s;
+            cursor: pointer
+}
+
+.arrow:hover{
+    opacity: 1;
+}
+
+.pictures{
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+    display: flex;
+    width: 100%;
+    transition: 1s ease-in-out all;
+}
+
+.imgs{
+    height: 250px;
+    width: 300px;
+}
+
+.right_arrow{
+    position: absolute;
+    left: 260px !important;
+}
+
+.left_arrow{
+    position: absolute;
+    left: -10px !important;
 }
