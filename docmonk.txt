@@ -1,0 +1,18 @@
+# Date : 19th Oct of 2021
+# Time : 12.14 PM
+# Developer : Blesslin Jerish R
+# Modus Operandi : Media Monk Interview Assessment 1
+# To Do : Slide Show 
+# TechStack : HTML , CSS , Vanilla JS ( plain )
+# Tracker Board : Trello - url : https://trello.com/b/Fn5nq4ZZ/themonkshow
+# Modules - 5 Modules
+
+Modules 
+
+# Module 1 - Layout - HTML
+# Module 2 - Slide Show
+# Module 3 - Slide Show ( Should Work ) - JS
+# Module 4 - Beautification - CSS
+# Module 5 - Deploy - Netlify , Github , Source Code , Zip
+
+# Fire
