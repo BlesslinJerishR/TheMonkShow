@@ -49,6 +49,7 @@ body{
     border: 3.5px solid #2C2C2D;
     border-radius:11px;
     left: -1px;
+    background: #2C2C2D;
     box-shadow: 0 3px 6px rgba(0, 0 , 0, 0.2);        
 }
 
