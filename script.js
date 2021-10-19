@@ -39,3 +39,6 @@ document.querySelector(".left_arrow").addEventListener("click", function() {
   changeSlide(false);
   restart();
 });
+
+// Developer Signature
+// Blesslin Jerish R 

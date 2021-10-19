@@ -5,9 +5,16 @@ Bonjour , MediaMonks .
 # Developer : Blesslin Jerish R .
 # Modus Operandi : Media Monks Interview Assessment 1 .
 # To Do : Slide Show .
+
+# Deployed URL : https://themonkshow.netlify.app/
+# Private Source Code Repo : https://github.com/Mastermindx33/TheMonkShow
+
 # TechStack : HTML , CSS , Vanilla JS ( plain ) .
 # Tracker Board : Trello - url : https://trello.com/b/Fn5nq4ZZ/themonkshow
-# Modules - 5 Modules with 2 Sub Modules .                                                                              
+# Modules - 5 Modules with 2 Sub Modules .
+# Time Taken To Code : 1 hrs 47 Mins
+# Time - Documentation & Comments : 22 Mins
+
 
 <---- Modules  ---->
 

@@ -1,7 +1,9 @@
+/* Poppins Font */
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
 
 /* Overflow + MySignature Black */
+
 html,body{
     /* Overflow */
     overflow: hidden !important;
@@ -36,6 +38,8 @@ body{
     align-items: center !important;
 }
 
+/* Main Container */
+
 .container{
     position: relative;
     overflow: hidden;
@@ -47,6 +51,8 @@ body{
     left: -1px;
     box-shadow: 0 3px 6px rgba(0, 0 , 0, 0.2);        
 }
+
+/* Style for Arrow Module */
 
 .arrows:hover{
     opacity: 1;
@@ -82,6 +88,8 @@ body{
     opacity: 1;
 }
 
+/* Style for Picture Module */
+
 .pictures{
     position: absolute;
     top: 50%;
@@ -108,9 +116,14 @@ body{
     left: -10px !important;
 }
 
+/* Media Monks */
+
 h1{
     position: absolute;
     top: 28px;
     font-size: 40px;
     font-family: 'Poppins', sans-serif;
 }
+
+/* Developer Signature */
+/* Blesslin Jerish R */
