@@ -3,7 +3,7 @@ Bonjour , MediaMonks .
 # Date : 19th Oct of 2021
 # Time : 12.14 PM
 # Developer : Blesslin Jerish R .
-# Modus Operandi : Media Monk Interview Assessment 1 .
+# Modus Operandi : Media Monks Interview Assessment 1 .
 # To Do : Slide Show .
 # TechStack : HTML , CSS , Vanilla JS ( plain ) .
 # Tracker Board : Trello - url : https://trello.com/b/Fn5nq4ZZ/themonkshow

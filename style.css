@@ -6,9 +6,9 @@ html,body{
     /* Overflow */
     overflow: hidden !important;
     /* Background Color */
-    background: #1d1e21 !important;
+    background: #EAE8E4 !important;
     /* Text Color */
-    color: #FF0000 !important;
+    color: #2C2C2D !important;
     /* Height */
     height: 100%;
 }
@@ -25,7 +25,7 @@ html {
 }
 
 ::-webkit-scrollbar-thumb {
-    background: #FF0000;
+    background: #2C2C2D;
 }
 
 /* Body */
@@ -42,7 +42,7 @@ body{
     top: 20px !important;
     width: 300px;
     height: 250px;
-    border: 3px solid #FF0000;
+    border: 3px solid #2C2C2D;
     border-radius:11px;
     box-shadow: 0 3px 6px rgba(0, 0 , 0, 0.2);        
 }
@@ -71,7 +71,7 @@ body{
             height: 40px;
             width: 40px;
             border-radius: 7px;
-            background-color: #FF0000;
+            background-color: #2C2C2D;
             opacity: 0.5s;
             transition: ease 0.3s;
             cursor: pointer
