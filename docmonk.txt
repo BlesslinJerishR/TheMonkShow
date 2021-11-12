@@ -7,7 +7,7 @@ Bonjour , MediaMonks .
 # To Do : Slide Show .
 
 # Deployed URL : https://themonkshow.netlify.app/
-# Private Source Code Repo : https://github.com/Mastermindx33/TheMonkShow
+# Private Source Code Repo : https://github.com/BlesslinJerishR/TheMonkShow
 
 # TechStack : HTML , CSS , Vanilla JS ( plain ) .
 # Tracker Board : Trello - url : https://trello.com/b/Fn5nq4ZZ/themonkshow
@@ -33,7 +33,7 @@ Bonjour , MediaMonks .
           I had a Canva Premium , I am using Linux so it takes time to install Photoshop , so using Canva for now . Exporting the Logo Right now .      
 
     - [x] Logo Exported I am calling my own skeleton module for Ticon from my own Pyrames Repo which can be founded in the
-          url - https://github.com/Mastermindx33/Pyrames/tree/main/PyHtml
+          url - https://github.com/BlesslinJerishR/Pyrames/tree/main/PyHtml
 
     - [x] Echo <h1>Hello World</h1>
 
@@ -56,7 +56,7 @@ Bonjour , MediaMonks .
     - [x] Linking
     - [x] html, body basics
     - [x] Magic Scroll Bar - To hide the scroll bar if any calling my own repo magicScroll.css from Pyrames which can be founded in the
-          url - https://github.com/Mastermindx33/Pyrames/tree/main/PyCss
+          url - https://github.com/BlesslinJerishR/Pyrames/tree/main/PyCss
     - [x] Background Color
     - [x] Design Modules
     - [x] Basic Starter Styles
